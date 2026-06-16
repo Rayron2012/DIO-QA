@@ -23,3 +23,8 @@ Essa etapa é efetuada após os testes de integração e antes da implantação.
 São normalmente realizados pelo cliente ou representante final, que valida se o sistema cumpre os critérios de aceitação que foram combinados previamente.
 
 Pode ser considerada a última etapa da pirâmide, pois é efetuada antes da implantação final do software. Percebi que, como é a última etapa, pode ser a mais lenta e a mais suscetível a erros humanos, principalmente dos testadores finais.
+
+
+<img width="1059" height="676" alt="image" src="https://github.com/user-attachments/assets/fe4eb343-09c4-4c41-a240-0ff7cce0bab7" />
+
+* Ao procurar imagens para colocar aqui, vi que existem vários modelos de pirâmide: algumas colocando testes de componente, outras destacando testes de API. Mas o conceito é apenas um: várias etapas podem ou não ser adicionadas em uma determinada camada. Como, por exemplo, testes de componente na camada de teste unitário, ou testes de API na etapa de testes de integração."
