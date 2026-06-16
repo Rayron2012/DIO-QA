@@ -10,7 +10,7 @@ A garantia é uma abordagem mais proativa que visa estabelecer padrões e proces
 
 * É uma atividade focada no futuro.
 
-* É uam responsabilidade compartilhada por todos.
+* É uma responsabilidade compartilhada por todos.
 
 ### Controle e Qualidade (QC)
 
